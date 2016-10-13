@@ -1,2 +1,2 @@
-# kalkulus
-its a well written LaTeX document for kalk1
+# dimat2
+its a well written LaTeX document for dimat2
